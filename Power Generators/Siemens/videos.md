@@ -1,2 +1,4 @@
 
-<iframe src='//players.brightcove.net/1813624294001/HJbJiSd8uf_default/index.html?videoId=5745966693001' allowfullscreen frameborder=0></iframe>
+
+
+[![](http://img.youtube.com/vi/uuXwN1dBoV4/0.jpg)](http://www.youtube.com/watch?v=uuXwN1dBoV4 "Siemens Gas")
