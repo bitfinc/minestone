@@ -1,6 +1,6 @@
 
 SGT-A45 Fast power. Anywhere.
-<a href="https://www.siemens.com/global/en/home/products/energy/power-generation/gas-turbines/sgt-a45.html#Whitepaper</a>
+https://www.siemens.com/global/en/home/products/energy/power-generation/gas-turbines/sgt-a45.html#Whitepaper
 
 The SGT-A45 TR gas turbine is integrated into a mobile unit that can be installed and commissioned in less than two weeks and can begin generating electricity immediately. With an electrical output of up to 44 megawatts, the aeroderivative gas turbine delivers more power and higher efficiency than any other mobile gas turbine.
 
