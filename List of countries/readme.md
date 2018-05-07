@@ -54,16 +54,8 @@ The government of the host country should be supportive, and encourage blockchai
 Taking into account the features we’ve mentioned, as well as the sandbox regulatory policy, taxation and bank operations benefits, and, of course, the biggest number of completed ICOs (over $10 million raised), let’s outline the best ICO-friendly countries:
 
 
-
-# ICO (First Draft)
 <p align="center">
-<P align="center">Project Bitfinc Documentation - We develop technology for a decentralized world. 
-  </P>
-<p align="center">
-<img src="https://www.bitfinc.com/wp-content/uploads/2015/04/LogoSolito-1-e1510025545831.png">
-<H1 align="center">Introduction</H1>
-
-
+<img src="https://github.com/bitfinc/minestone/blob/master/List%20of%20countries/The_most_ICO_friendly_countries.png">
 
 
 
