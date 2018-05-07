@@ -1,6 +1,6 @@
-Countries characteristics
 
-WHICH COUNTRIES ARE ICO-FRIENDLY?
+WHICH COUNTRIES ARE ICO-FRIENDLY? 
+
 In order to stress the best countries for blockchain startups, it is necessary to analyze their ICO history. The best country is considered to have the highest number of successful ICO launches. Therefore, let’s consider successful ICOs to be those that:
 
 have a stable position in the market
