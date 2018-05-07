@@ -11,3 +11,8 @@ SGT-A45 Fast power. Anywhere.
 
 
 [![](http://img.youtube.com/vi/r4H_j-DoSaY/0.jpg)](http://www.youtube.com/watch?v=r4H_j-DoSaY "Gas Movil")
+
+
+Siemens’ Flex-Plants™ - Flexible Combined Cycle Power Generation
+
+[![](http://img.youtube.com/vi/eeiu-wcyEbs/0.jpg)](http://www.youtube.com/watch?v=eeiu-wcyEbs "Siemens’ Flex-Plants™ - Flexible Combined Cycle Power Generation")
