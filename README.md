@@ -6,3 +6,6 @@
 
 # minestone
 Multi mining farm powered by a gas turbine generator.
+
+How a Gas Turbine Works?
+[![](http://img.youtube.com/vi/zcWkEKNvqCA/0.jpg)](http://www.youtube.com/watch?v=zcWkEKNvqCA "How a Gas Turbine Works")
