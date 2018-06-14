@@ -7,6 +7,3 @@
 # minestone
 Multi mining farm powered by a Tesla solar power plant.
 
-How a Gas Turbine Works?
-<br>
-[![](http://img.youtube.com/vi/zcWkEKNvqCA/0.jpg)](http://www.youtube.com/watch?v=zcWkEKNvqCA "How a Gas Turbine Works")
