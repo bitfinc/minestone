@@ -5,7 +5,7 @@
 <img src="https://github.com/bitfinc/minestone/blob/master/branding/minestome_FBCover.png">
 
 # minestone
-Multi mining farm powered by a gas turbine generator.
+Multi mining farm powered by a Tesla solar power plant.
 
 How a Gas Turbine Works?
 <br>
